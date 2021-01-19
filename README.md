@@ -1,5 +1,4 @@
 # Burger-Builder-React.Js-WebApp
-## Burger Builder Application w/ ReactJS
 
 ### App Description
 
